@@ -5,7 +5,7 @@ it will test different properties and methods of the object.
 """
 import unittest
 import operator
-import pandas as pd
+import pandas
 
 from unittest import TestCase
 from datetime import datetime
